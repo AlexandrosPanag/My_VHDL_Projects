@@ -16,8 +16,17 @@ According to our truth table the output should be:
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-With VHDL it is really easy & simple to create an AND gate along with other gates
+With VHDL, it is really easy & simple to create an AND gate along with other gates
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OR Logic gate
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+According to our truth table the output should be:
+
+| A Input | B Input | OUTPUT |
+| --------------- | ---------------- | --------------- |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
