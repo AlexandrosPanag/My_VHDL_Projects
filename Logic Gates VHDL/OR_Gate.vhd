@@ -7,7 +7,7 @@ entity orGate is
          B_inp : in std_logic;      -- Second input
          Y_outp : out std_logic);   -- Output
 
-end andGate;
+end orGate;
 
 
 architecture orLogic of orGate is
