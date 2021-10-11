@@ -71,4 +71,4 @@ A code to create a 3-input AND gate. According to our truth table the output sho
 | 1 | 0 | 0 | 0 |
 | 1 | 0 | 1 | 0 |
 | 1 | 1 | 0 | 0 |
-| 1 | 1 | 1 | 0 |
+| 1 | 1 | 1 | 1 |
