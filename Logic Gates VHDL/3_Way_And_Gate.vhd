@@ -15,6 +15,6 @@ architecture tripleandLogic of tripleandGate is
 
  begin
     
-    Y <= A AND B AND C;
+    Y <= (A AND B AND C);
 
 end tripleandLogic;
