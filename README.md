@@ -4,6 +4,7 @@ In his introduction to A VHDL Primer (Prentice Hall, 1992), Jayaram Bhasker writ
 
 VHDL is a rich and powerful language. But is VHDL really so hard to learn and use? VHDL is not impenetrable, if you follow well-established coding conventions and borrow liberally from sample circuits such as those found in this introduction.
 
+Compiler (IDE) used / programs were tested on : https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ALU
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
