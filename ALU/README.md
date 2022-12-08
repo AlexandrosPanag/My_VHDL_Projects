@@ -1,6 +1,9 @@
-----
-ALU
----
+What Is an ALU?
+---------------
+
+An arithmetic logic unit (ALU) is a digital circuit used to perform arithmetic and logic operations. It represents the fundamental building block of the central processing unit (CPU) of a computer. Modern CPUs contain very powerful and complex ALUs. In addition to ALUs, modern CPUs contain a control unit (CU).
+
+Most of the operations of a CPU are performed by one or more ALUs, which load data from input registers. A register is a small amount of storage available as part of a CPU. The control unit tells the ALU what operation to perform on that data, and the ALU stores the result in an output register. The control unit moves the data between these registers, the ALU, and memory.
 
 
-With VHDL, we can build an ALU Operator that given the right signs, is able to perform the following actions : with "000" it can perform ADD logical operation, with "001" it can perform OR logical operation , with "010" it can perform the ADD which adds the signs, with "011" it can perform subtraction between the two signs, with "100" it can perform NAND logical operation, with "101" it can perform XOR Operation, with "110" XNOR Logical operation and with "111" ALU performs SLT operation. ALU Program can also be extended in order to build an entire MIPS Processor with the right additional tools.
+This article was taken from : https://study.com/academy/lesson/arithmetic-logic-unit-alu-definition-design-function.html
